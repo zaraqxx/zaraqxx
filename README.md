@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zaraq</h1>
 <h3 align="center">A passionate programmer developer.</h3>
 
-- 🌱 I’m currently learning **C++ and Data Structures**
+- 🌱 I’m currently learning **Web engineering, Operating systems, Information Security, E-commerce and Software Construction and Development**
 
-- 💬 Ask me about **C++, OOP**
+- 💬 Ask me about **C++, OOP, Java, Javascript**
 
 - 📫 How to reach me **zaraqxx@gmail.com**
 
