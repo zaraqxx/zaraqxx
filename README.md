@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaraqxx&show_icons=true&locale=en&layout=compact" alt="zaraqxx" /></p>
 [![zaraqxx's GitHub | Languages Over Time](https://stats.quira.sh/zaraqxx/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zaraqxx)
+
+[![zaraqxx's GitHub | Languages Over Time](https://stats.quira.sh/zaraqxx/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zaraqxx)
